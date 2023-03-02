@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preshchiks
+- 👋 Hi, I’m @AnalystBabe
 - 👀 I’m interested in data analysis...
 - 🌱 I’m currently learning R Programming..
 - 💞️ I’m looking to collaborate on working with data..
